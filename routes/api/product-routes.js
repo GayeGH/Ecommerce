@@ -9,7 +9,7 @@ router.get('/', async (req, res) => {
   // be sure to include its associated Category and Tag data
   try {
     const categoryData = await Product.findAll({
-      fields: ['id',]
+      fields: ['id']
     });
     res.status(200).json(categoryData);
   }catch (err) {
@@ -31,6 +31,15 @@ router.get('/:id', async (req, res) => {
 
 // create new product
 router.post('/', (req, res) => {
+  Product.create(req.body)
+  .then((newProduct) => {
+    res.json(newProduct);
+  })
+  .catch((err) => {
+    res.json (err);
+  });
+});
+??????
   /* req.body should look like this...
     {
       product_name: "Basketball",
