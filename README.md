@@ -9,8 +9,9 @@ Express, Sequelize, Mysql2 and Nodemon
   
 ## Usage
 
-In Ecommerce, users will be able to view different aspects of the applicationor "store" such as "categories", "tags" and "products". Users will be able to view all of the categories, tags and products with a get request. They will also be able to create, update and delete items with a post request, a put request and a delete request. To test the routes, we used 'Insomnia'.
+In Ecommerce, users will be able to view different aspects of the application or 'online-store' such as "categories", "tags" and "products". Users will be able to view all of the categories, tags and products with a get request. They will also be able to create, update and delete items with a post request, a put request and a delete request. To test the routes, we used 'Insomnia'.
 
+<img width="1231" alt="Screen Shot 2023-02-06 at 3 54 43 PM" src="https://user-images.githubusercontent.com/112979481/217086368-722e5434-e46c-4931-812a-c6a386c5bc3d.png">
 
 ## License
 
