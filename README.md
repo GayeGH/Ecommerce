@@ -13,6 +13,8 @@ In Ecommerce, users will be able to view different aspects of the application or
 
 <img width="1231" alt="Screen Shot 2023-02-06 at 3 54 43 PM" src="https://user-images.githubusercontent.com/112979481/217086368-722e5434-e46c-4931-812a-c6a386c5bc3d.png">
 
+Link of video:  https://drive.google.com/file/d/1gy2gaN-kTfr3su3VFpDHhUvGCbQ8LVkP/view?usp=share_link
+
 ## License
 
 "ISC"
